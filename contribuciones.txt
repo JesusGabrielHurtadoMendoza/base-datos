@@ -23096,3 +23096,4 @@ Commit del 2025-02-01 número 11
 ✅ Commit del 2025-04-25 número 25
 ✅ Commit del 2025-04-25 número 26
 ✅ Commit del 2025-04-25 número 27
+✅ Commit del 2025-04-25 número 28
